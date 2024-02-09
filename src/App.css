@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.books-container {
+  width: 100%;
+  border: 5px solid gold;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.book {
+  border: 1px solid black;
+}
